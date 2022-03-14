@@ -1,0 +1,167 @@
+[
+    {
+      "id":0,
+      "Question":"Որն է աշխարհի ամենամեծ լիճը",
+      "WinerMany":200,
+      "FixMany":0,
+      "Answers":[
+    {
+      "id":11,
+      "Answer":"Բայկալ լիճ",
+      "delet50_50":false,
+      "RightAnswer":false,
+      "CallFriend":false,
+      "Percent":15,
+      "abc":"A",
+      "QuestionAbc":"A"
+    },
+
+    {
+      "id":12,
+      "Answer":"Կասպից ծով",
+      "RightAnswer":true,
+      "delet50_50":true,
+      "CallFriend":true,
+      "Percent":40,
+      "abc":"B",
+      "QuestionAbc":"B"
+    },
+
+    {
+      "id":13,
+      "Answer":"Վիկտորիա լիճ",
+      "RightAnswer":false,
+      "delet50_50":true,
+      "CallFriend":false,
+      "Percent":20,
+      "abc":"C",
+      "QuestionAbc":"C"
+    },
+
+    {
+      "id":14,
+      "Answer":"Արալյան լիճ",
+      "RightAnswer":false,
+      "delet50_50":false,
+      "CallFriend":false,
+      "Percent":25,
+      "abc":"D",
+      "QuestionAbc":"D"
+    }
+  ]
+},
+
+{
+  "id":1,
+  "Question":"Որն է աշխարհի ամենաբարձր լեռը",
+  "WinerMany":400,
+  "FixMany":400,
+  "Answers":[
+    {
+      "id":11,
+      "Answer":"Արարատ",
+      "RightAnswer":false,
+      "delet50_50":false,
+      "CallFriend":false,
+      "ClassRightAnswer":"",
+      "Percent":10,
+      "abc":"A",
+      "QuestionAbc":"A"
+    },
+
+    {
+      "id":12,
+      "Answer":"Էվերեստ",
+      "RightAnswer":true,
+      "delet50_50":true,
+      "CallFriend":true,
+      "ClassRightAnswer":"",
+      "Percent":55,
+      "abc":"B",
+      "QuestionAbc":"B"
+    },
+
+    {
+      "id":13,
+      "Answer":"Արագած",
+      "RightAnswer":false,
+      "delet50_50":true,
+      "CallFriend":false,
+      "ClassRightAnswer":"",
+      "Percent":15,
+      "abc":"C",
+      "QuestionAbc":"C"
+    },
+
+    {
+      "id":14,
+      "Answer":"Էլբրուս",
+      "RightAnswer":false,
+      "delet50_50":false,
+      "CallFriend":false,
+      "ClassRightAnswer":"",
+      "Percent":20,
+      "abc":"D",
+      "QuestionAbc":"D"
+    }
+  ]
+},
+
+{
+  "id":3,
+  "Question":"Որն է աշխարհի ամենաերկար գետը",
+  "WinerMany":600,
+  "FixMany":0,
+  "Answers":[
+    {
+      "id":11,
+      "Answer":"Ամազոն",
+      "RightAnswer":false,
+      "delet50_50":false,
+      "CallFriend":false,
+      "ClassRightAnswer":"",
+      "Percent":5,
+      "abc":"A",
+      "QuestionAbc":"A"
+    },
+
+    {
+      "id":12,
+      "Answer":"Վոլգա",
+      "RightAnswer":false,
+      "delet50_50":false,
+      "CallFriend":false,
+      "ClassRightAnswer":"",
+      "Percent":35,
+      "abc":"B",
+      "QuestionAbc":"B"
+    },
+
+    {
+      "id":13,
+      "Answer":"Նեղոս",
+      "RightAnswer":true,
+      "delet50_50":true,
+      "CallFriend":true,
+      "ClassRightAnswer":"",
+      "Percent":50,
+      "abc":"C",
+      "QuestionAbc":"C"
+    },
+
+    {
+      "id":14,
+      "Answer":"Դնեպր",
+      "RightAnswer":false,
+      "delet50_50":true,
+      "CallFriend":false,
+      "ClassRightAnswer":"",
+      "Percent":10,
+      "abc":"D",
+      "QuestionAbc":"D"
+    }
+
+  ]
+}
+
+]

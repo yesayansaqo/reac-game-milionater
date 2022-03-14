@@ -1,0 +1,29 @@
+.ResultsTakeOverChild>h1{
+    color: #fff;
+}
+.ResultsTakeOverMin{
+    width:100%;
+    height: 100vh;
+    background-color: indigo;
+    position: absolute;
+    z-index: 9999;
+    top: 0;
+}
+.LidersMin2{
+    width: 25%;
+    padding: 10px;
+    background-color: #fff;
+    display: flex;
+    margin: 0 auto;
+}
+.Liders2Child{
+    width: 30%;
+}
+.ResultsTakeOverChild{
+    margin-top: 200px;
+}
+.closeTakeOverResults{
+    color: #fff;
+    background-color: indigo;
+    padding: 20px;
+}
